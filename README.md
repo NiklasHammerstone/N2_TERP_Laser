@@ -9,4 +9,4 @@ The laser is designed to be operated with nitrogen at around 100mbar (75torr) ab
 
 ![General Setup](./Pictures/Back.jpeg?raw=true)
 
-For more pictures, see Pictures
+For more pictures, see the Folder "Pictures"
