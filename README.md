@@ -6,14 +6,14 @@ The laser is designed to be operated with nitrogen at around 100mbar (75torr) ab
 
 ## Update 06.05.2022: Successful pumping of laser dyes
 I have now successfully pumped some laser dyes by focussing the output of the N2-Laser into a quartz cuvette using a cylindrical lens. I have tried four different dyes, all dissolved in ethanol: Coumarin-1, Rhodamine-6G, Rhodamine-B and Fluoresceine. Since the peak power of the N2-Laser is very high, the dyes produce high gain and only require the reflectivity of the cuvette as the resonator mirrors. 
-![Coumarin-1](./Pictures/Coumarin_1.jpeg?raw=true)
 Coumarin-1
-![Rhodamine-6G](./Pictures/Rhodamin6G.jpeg?raw=true)
+![Coumarin-1](./Pictures/Coumarin_1.jpeg?raw=true)
 Rhodamine-6G
-![Rhodamine-B](./Pictures/RhodaminB.jpeg?raw=true)
+![Rhodamine-6G](./Pictures/Rhodamin6G.jpeg?raw=true)
 Rhodamine-B
-![Fluoresceine](./Pictures/Fluorescein.jpeg?raw=true)
+![Rhodamine-B](./Pictures/RhodaminB.jpeg?raw=true)
 Fluoresceine
+![Fluoresceine](./Pictures/Fluorescein.jpeg?raw=true)
 
 ## Update 16.01.2022: N2-Laser is operational!
 ![Laser action](./Pictures/Firing.jpeg?raw=true)
